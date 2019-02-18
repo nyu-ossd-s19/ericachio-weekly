@@ -20,6 +20,6 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  2   | link to my contribution    | course website    |   I fixed a broken link.    |
+|  3   | link to my contribution(https://github.com/nyu-ossd-s19/FacebookPanic/issues/5)    | Facebook Panic    |   Feature Request    |
 |     |     |     |      |
 |     |     |     |      |
