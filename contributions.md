@@ -26,7 +26,7 @@ Replace the first row with your contribution.
 |  10   |[link to my issue report](https://github.com/nyu-ossd-s19/candacej97-weekly/issues/1)     |  Blog Post   |   Suggested using quotation markups for better layout.   |
 |  10   | [link to my issue report](https://github.com/nyu-ossd-s19/willgreenberg-weekly/issues/19)    |  Blog Post   |   Spelling Error   |
 |  10   | [link to my comment](https://github.com/sindresorhus/caprine/issues/710)    |  Caprine Comment   |   Commenting on Feature Request   |
-|     |     |     |      |
+|  11   | [link to my feature request](https://github.com/sindresorhus/caprine/issues/880)    |  Caprine Feature Request   |   Requested a feature   |
 |     |     |     |      |
 |     |     |     |      |
 |     |     |     |      |
